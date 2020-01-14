@@ -42,10 +42,18 @@ main img{
 	margin-top: 50px;
 }
 
+main img.angry{
+	float: right;
+	height: 400px;
+	margin-top: 0;
+	margin-left: 30px;
+}
+
 main.relations{
 	border: 2px solid black;
 	border-radius: 10px;
 	background-color: #EEEEEE;
+	margin-top: 50px;
 }
 
 p.caption{
